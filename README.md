@@ -1,0 +1,2 @@
+# hospital_mangement
+ The ‘Hospital Management System’ is a desktop-based application that has been developed to streamline the hospital as a system and keep proper record of its elements. Using this project, the employees may search all the details of a Patient and solve any query. Here the Doctors can easily prescribe medicine for their Patients. The Patients can view their status and prescription through the Receptionist.

@@ -1,0 +1,13 @@
+E:\project\Hospital\Hospital\Hospital\bin\Debug\Hospital.exe.config
+E:\project\Hospital\Hospital\Hospital\bin\Debug\Hospital.exe
+E:\project\Hospital\Hospital\Hospital\bin\Debug\Hospital.pdb
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.exe
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.pdb
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.Doctor.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.Admin.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.Login.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.Receptionist.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.MngDoc.resources
